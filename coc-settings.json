@@ -1,0 +1,6 @@
+{
+  "vetur.experimental.templateInterpolationService": true,
+  "vetur.validation.templateProps": true,
+  "clangd.semanticHighlighting": true,
+  "clangd.path": "/home/levi/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd"
+}
